@@ -1,2 +1,2 @@
-# 3413-DatabaseManagement
+# DatabaseManagement
 Database Management - Basics
